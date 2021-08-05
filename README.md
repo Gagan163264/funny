@@ -7,6 +7,6 @@ To run, excecute python file, with required video path as an argument
 
 This should generate a new video file with same name, but with a 'C' at the end
 
-Upload this image to discord to get 
+Upload this video to discord to get 
 
 ![image](https://user-images.githubusercontent.com/42744771/128386215-f1fb70c8-1825-4d23-8b23-f76bdd17e504.png)
